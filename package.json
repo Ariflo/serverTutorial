@@ -1,0 +1,19 @@
+{
+  "name": "servertutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariflo/serverTutorial.git"
+  },
+  "author": "ari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ariflo/serverTutorial/issues"
+  },
+  "homepage": "https://github.com/Ariflo/serverTutorial#readme"
+}
